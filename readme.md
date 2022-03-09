@@ -12,3 +12,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
+# c++基本语法
+## 对象  
+## 行为方法
+## 类  蓝图/图纸（包含对象的行为方法和属性）
