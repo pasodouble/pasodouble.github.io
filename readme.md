@@ -28,7 +28,7 @@ classname obj1;
 classname obj2;
 ```
 
-## 访问数据成员_使用访问运算符.访问类的对象的公共数据成员_
+## 访问数据成员 _使用访问运算符.访问类的对象的公共数据成员_
 ```
 obj1.Data members/variables=sth1;
 obj2.Data members/variables=sth2;
