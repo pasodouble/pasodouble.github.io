@@ -16,3 +16,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## 对象  
 ## 行为方法
 ## 类  蓝图/图纸（包含对象的行为方法和属性）
+
+`#include <iostream>`定义头文件
