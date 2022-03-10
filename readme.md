@@ -17,4 +17,13 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## 行为方法
 ## 类  蓝图/图纸（包含对象的行为方法和属性）
 
-`#include <iostream>`定义头文件
+```
+`#include <iostream> `定义头文件
+`using namespace std; `告知编译器使用std命名空间_防止redefination_
+int main() 
+{
+ cout<<"Hello World";
+ return 0;
+ }
+```
+[代码块](urlhttps://docs.github.com/cn/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github#enabling-fixed-width-fonts-in-the-editor)
