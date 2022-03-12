@@ -12,9 +12,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-## other blog
-[2022-03](./2022-03-12-Hello-2022.md)
+## QT学习记录
+[QT2022-03](./2022-03-12-qt.md)
 
+## C++学习记录
+[C++2022-03](./2022-3-10-c++.md)
 # c++基本语法 
 ## 类定义 _蓝图_
 ```cpp
@@ -110,10 +112,10 @@ int main()
  return 0;
  }
 ```
-[代码块](urlhttps://docs.github.com/cn/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github#enabling-fixed-width-fonts-in-the-editor)
+[代码块](https://docs.github.com/cn/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github#enabling-fixed-width-fonts-in-the-editor)
 
 ## c++标识符 _标识变量/函数/类/模块/其他用户自定义项目的名称（区分大小写）_
-## 关键字 [关键字完整介绍](urlhttps://www.runoob.com/w3cnote/cpp-keyword-intro.html)
+## 关键字 [关键字完整介绍](https://www.runoob.com/w3cnote/cpp-keyword-intro.html)
 
 # c++继承
 _当创建一个类（派生类）时，不需要重新编写新的数据成员和成员函数，只需要指定派生类继承基类_
