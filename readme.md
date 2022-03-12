@@ -13,10 +13,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ## QT学习记录
-[QT2022-03](./2022-03-12-qt.md)
+[QT 2022-03](./2022-03-12-qt.md)
 
 ## C++学习记录
-[C++2022-03](./2022-3-10-c++.md)
+[C++ 2022-03](./2022-3-10-c++.md)
 # c++基本语法 
 ## 类定义 _蓝图_
 ```cpp
