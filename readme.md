@@ -14,7 +14,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # c++基本语法 
 ## 类定义 _蓝图_
-```
+```cpp
 class classname //class 为关键字 classname为类名
 {
   Access specifiers: //访问修饰符(类成员的访问属性）：public_公共成员在类的外部可访问_private/protected
@@ -23,18 +23,18 @@ class classname //class 为关键字 classname为类名
 }
 ```
 ## 对象
-```
+```cpp
 classname obj1;
 classname obj2;
 ```
 
 ## 访问数据成员 _使用访问运算符.访问类的对象的公共数据成员_
-```
+```cpp
 obj1.Data members/variables=sth1;
 obj2.Data members/variables=sth2;
 ```
 ### 实例代码（助于理解）
-```
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -93,7 +93,7 @@ volume = Box3.get();
 cout << "Box3 的体积： "<<volume<<end1;
 return 0;
 }
-```
+```cpp
 `Box1 的体积： 210`
 `Box2 的体积： 1560`
 `Box3 的体积： 1536`
@@ -106,7 +106,7 @@ int main()
  cout<<"Hello World"; //显示"Hello World"
  return 0;
  }
-```
+```cpp
 [代码块](urlhttps://docs.github.com/cn/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github#enabling-fixed-width-fonts-in-the-editor)
 
 ## c++标识符 _标识变量/函数/类/模块/其他用户自定义项目的名称（区分大小写）_
@@ -116,7 +116,7 @@ int main()
 _当创建一个类（派生类）时，不需要重新编写新的数据成员和成员函数，只需要指定派生类继承基类_
 
 代码如下
-```
+```cpp
 class Animal{
 
 }
@@ -125,7 +125,7 @@ class Dog : public Animal {
 
 };
 ```
-```
+```cpp
 #include <iostream>
 using namespace std;
 //基类
