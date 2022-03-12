@@ -93,12 +93,12 @@ volume = Box3.get();
 cout << "Box3 的体积： "<<volume<<end1;
 return 0;
 }
-```cpp
+```
 `Box1 的体积： 210`
 `Box2 的体积： 1560`
 `Box3 的体积： 1536`
 ## hello world程序
-```
+```cpp
 #include <iostream> //定义头文件
 using namespace std; //告知编译器使用std命名空间_防止redefination_
 int main() 
@@ -106,7 +106,7 @@ int main()
  cout<<"Hello World"; //显示"Hello World"
  return 0;
  }
-```cpp
+```
 [代码块](urlhttps://docs.github.com/cn/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github#enabling-fixed-width-fonts-in-the-editor)
 
 ## c++标识符 _标识变量/函数/类/模块/其他用户自定义项目的名称（区分大小写）_
