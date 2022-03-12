@@ -112,3 +112,39 @@ int main()
 ## c++标识符 _标识变量/函数/类/模块/其他用户自定义项目的名称（区分大小写）_
 ## 关键字 [关键字完整介绍](urlhttps://www.runoob.com/w3cnote/cpp-keyword-intro.html)
 
+# c++继承
+_当创建一个类（派生类）时，不需要重新编写新的数据成员和成员函数，只需要指定派生类继承基类_
+
+代码如下
+```
+class Animal{
+
+}
+
+class Dog : public Animal {
+
+};
+```
+```
+#include <iostream>
+using namespace std;
+//基类
+class Shape
+{
+  public:
+  void setWidth(int w)
+  { 
+    width = w;
+  }
+  
+  void setHeight(int h)
+  {
+  height = h;
+  }
+  protected: //自身/子类/父类
+  int width;
+  int height;
+}
+
+
+```
